@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://https://github.com/amanpurwar1/gitops-foundations-env-2892009
+  url: https://github.com/amanpurwar1/gitops-foundations-env-2892009
 
